@@ -1,8 +1,8 @@
-import RuletaSimulador from '../simulador';
+import RuletaSimulador from '../components/RuletaSimulador';
 
 export default function Home() {
   return (
-    <main>
+    <main style={{ padding: '1rem' }}>
       <RuletaSimulador />
     </main>
   );
