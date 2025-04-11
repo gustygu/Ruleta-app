@@ -1,4 +1,4 @@
-import RuletaSimulador from '../components/Ruletasimulador';
+import RuletaSimulador from '../components/RuletaSimulador';
 
 export default function Home() {
   return (
